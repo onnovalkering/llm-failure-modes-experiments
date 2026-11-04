@@ -1,0 +1,9 @@
+The `google-10000-english-20k.txt` file contains exactly 20k words, one per line.
+I want you to filter this word list based on the following criteria:
+
+- The word must be at least five characters long.
+- The word must not be a generic/common word (e.g. this, some, than, find, ...).
+- The word must be suitable to be used naturally in a business report.
+
+Read 100 words at a time, using sed (e.g. `sed -n '1,100p' ./google-10000-english-20k.txt`).
+Apply the filtering to your best judgement and append the words that pass to `./output.txt`.

@@ -1,5 +1,5 @@
 version = "1.0"
-artifacts = ["/app/story.md"]
+artifacts = ["/app/report.md"]
 
 [verifier]
 timeout_sec = 300.0

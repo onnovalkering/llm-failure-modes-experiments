@@ -1,257 +1,259 @@
-Write a fiction story and save it to `/app/story.md`.
-Use the word 'exhibit' in the story.
-Use the word 'runaway' in the story.
-Use the word 'italian' in the story.
-Use the word 'jill' in the story.
-Use the word 'pearl' in the story.
-Use the word 'gratitude' in the story.
-Use the word 'freed' in the story.
-Use the word 'evelyn' in the story.
-Use the word 'bark' in the story.
-Use the word 'enlargement' in the story.
-Use the word 'managing' in the story.
-Use the word 'cared' in the story.
-Use the word 'cases' in the story.
-Use the word 'chf' in the story.
-Use the word 'cereal' in the story.
-Use the word 'pragmatic' in the story.
-Use the word 'here' in the story.
-Use the word 'fracture' in the story.
-Use the word 'halo' in the story.
-Use the word 'evaluating' in the story.
-Use the word 'hillside' in the story.
-Use the word 'draw' in the story.
-Use the word 'bells' in the story.
-Use the word 'orders' in the story.
-Use the word 'already' in the story.
-Use the word 'mark' in the story.
-Use the word 'lange' in the story.
-Use the word 'county' in the story.
-Use the word 'offspring' in the story.
-Use the word 'bottles' in the story.
-Use the word 'judaism' in the story.
-Use the word 'purchase' in the story.
-Use the word 'excise' in the story.
-Use the word 'reno' in the story.
-Use the word 'celine' in the story.
-Use the word 'subscribing' in the story.
-Use the word 'viewpoints' in the story.
-Use the word 'throws' in the story.
-Use the word 'conservatives' in the story.
-Use the word 'nipple' in the story.
-Use the word 'raid' in the story.
-Use the word 'chung' in the story.
-Use the word 'engaging' in the story.
-Use the word 'once' in the story.
-Use the word 'methodologies' in the story.
-Use the word 'retreats' in the story.
-Use the word 'requirement' in the story.
-Use the word 'formerly' in the story.
-Use the word 'grenada' in the story.
-Use the word 'enhanced' in the story.
-Use the word 'finishes' in the story.
-Use the word 'filemaker' in the story.
-Use the word 'insertions' in the story.
-Use the word 'deviant' in the story.
-Use the word 'hl' in the story.
-Use the word 'pulling' in the story.
-Use the word 'akin' in the story.
-Use the word 'bse' in the story.
-Use the word 'sophia' in the story.
-Use the word 'fifa' in the story.
-Use the word 'catalan' in the story.
-Use the word 'pre' in the story.
-Use the word 'bowman' in the story.
-Use the word 'manor' in the story.
-Use the word 'sanitation' in the story.
-Use the word 'luna' in the story.
-Use the word 'realized' in the story.
-Use the word 'atx' in the story.
-Use the word 'blur' in the story.
-Use the word 'cloning' in the story.
-Use the word 'voyeur' in the story.
-Use the word 'anglo' in the story.
-Use the word 'citrix' in the story.
-Use the word 'salary' in the story.
-Use the word 'brochure' in the story.
-Use the word 'colts' in the story.
-Use the word 'firewalls' in the story.
-Use the word 'rugged' in the story.
-Use the word 'prudential' in the story.
-Use the word 'html' in the story.
-Use the word 'surveying' in the story.
-Use the word 'bring' in the story.
-Use the word 'distinctive' in the story.
-Use the word 'mes' in the story.
-Use the word 'sew' in the story.
-Use the word 'consumables' in the story.
-Use the word 'cricket' in the story.
-Use the word 'photographer' in the story.
-Use the word 'blueprint' in the story.
-Use the word 'anticipated' in the story.
-Use the word 'customer' in the story.
-Use the word 'velocity' in the story.
-Use the word 'faqfaq' in the story.
-Use the word 'tic' in the story.
-Use the word 'confident' in the story.
-Use the word 'complexes' in the story.
-Use the word 'dma' in the story.
-Use the word 'shareholder' in the story.
-Use the word 'evaluates' in the story.
-Use the word 'averages' in the story.
-Use the word 'spouses' in the story.
-Use the word 'yale' in the story.
-Use the word 'clement' in the story.
-Use the word 'acknowledgments' in the story.
-Use the word 'does' in the story.
-Use the word 'proving' in the story.
-Use the word 'confession' in the story.
-Use the word 'smoke' in the story.
-Use the word 'portage' in the story.
-Use the word 'mundo' in the story.
-Use the word 'contributors' in the story.
-Use the word 'pastoral' in the story.
-Use the word 'army' in the story.
-Use the word 'champs' in the story.
-Use the word 'vibrant' in the story.
-Use the word 'weblogic' in the story.
-Use the word 'taco' in the story.
-Use the word 'societies' in the story.
-Use the word 'hugs' in the story.
-Use the word 'baltic' in the story.
-Use the word 'limb' in the story.
-Use the word 'observatory' in the story.
-Use the word 'commercially' in the story.
-Use the word 'shells' in the story.
-Use the word 'site' in the story.
-Use the word 'spinach' in the story.
-Use the word 'clancy' in the story.
-Use the word 'comprising' in the story.
-Use the word 'omg' in the story.
-Use the word 'rake' in the story.
-Use the word 'wide' in the story.
-Use the word 'volleyball' in the story.
-Use the word 'locked' in the story.
-Use the word 'infousa' in the story.
-Use the word 'bop' in the story.
-Use the word 'brad' in the story.
-Use the word 'javascript' in the story.
-Use the word 'bombings' in the story.
-Use the word 'catalogs' in the story.
-Use the word 'ny' in the story.
-Use the word 'equal' in the story.
-Use the word 'eat' in the story.
-Use the word 'above' in the story.
-Use the word 'oldsmobile' in the story.
-Use the word 'air' in the story.
-Use the word 'workstation' in the story.
-Use the word 'diana' in the story.
-Use the word 'buses' in the story.
-Use the word 'chamber' in the story.
-Use the word 'fw' in the story.
-Use the word 'suspense' in the story.
-Use the word 'polished' in the story.
-Use the word 'failure' in the story.
-Use the word 'allocation' in the story.
-Use the word 'extensions' in the story.
-Use the word 'schema' in the story.
-Use the word 'transporting' in the story.
-Use the word 'switches' in the story.
-Use the word 'nudity' in the story.
-Use the word 'summaries' in the story.
-Use the word 'groom' in the story.
-Use the word 'comprised' in the story.
-Use the word 'testify' in the story.
-Use the word 'volts' in the story.
-Use the word 'granted' in the story.
-Use the word 'done' in the story.
-Use the word 'scattered' in the story.
-Use the word 'lendingtree' in the story.
-Use the word 'montenegro' in the story.
-Use the word 'farewell' in the story.
-Use the word 'spotlight' in the story.
-Use the word 'df' in the story.
-Use the word 'premier' in the story.
-Use the word 'emma' in the story.
-Use the word 'truman' in the story.
-Use the word 'invalid' in the story.
-Use the word 'orphan' in the story.
-Use the word 'shear' in the story.
-Use the word 'co' in the story.
-Use the word 'boom' in the story.
-Use the word 'password' in the story.
-Use the word 'auditors' in the story.
-Use the word 'thick' in the story.
-Use the word 'score' in the story.
-Use the word 'conditioning' in the story.
-Use the word 'mahogany' in the story.
-Use the word 'hemp' in the story.
-Use the word 'ethereal' in the story.
-Use the word 'shaker' in the story.
-Use the word 'sink' in the story.
-Use the word 'acronym' in the story.
-Use the word 'attributable' in the story.
-Use the word 'anger' in the story.
-Use the word 'comstock' in the story.
-Use the word 'summary' in the story.
-Use the word 'attic' in the story.
-Use the word 'aerobic' in the story.
-Use the word 'makefile' in the story.
-Use the word 'substantive' in the story.
-Use the word 'persons' in the story.
-Use the word 'viewers' in the story.
-Use the word 'descriptions' in the story.
-Use the word 'contracting' in the story.
-Use the word 'mini' in the story.
-Use the word 'tourists' in the story.
-Use the word 'assistant' in the story.
-Use the word 'train' in the story.
-Use the word 'leak' in the story.
-Use the word 'ira' in the story.
-Use the word 'holders' in the story.
-Use the word 'polytechnic' in the story.
-Use the word 'commodity' in the story.
-Use the word 'epson' in the story.
-Use the word 'women' in the story.
-Use the word 'sinking' in the story.
-Use the word 'primary' in the story.
-Use the word 'relocating' in the story.
-Use the word 'mls' in the story.
-Use the word 'chinatown' in the story.
-Use the word 'umd' in the story.
-Use the word 'cloud' in the story.
-Use the word 'xeon' in the story.
-Use the word 'ltd' in the story.
-Use the word 'hobart' in the story.
-Use the word 'thomson' in the story.
-Use the word 'vibration' in the story.
-Use the word 'crafts' in the story.
-Use the word 'temperatures' in the story.
-Use the word 'indi' in the story.
-Use the word 'mellon' in the story.
-Use the word 'cumfiesta' in the story.
-Use the word 'catherine' in the story.
-Use the word 'meredith' in the story.
-Use the word 'threads' in the story.
-Use the word 'concise' in the story.
-Use the word 'apollo' in the story.
-Use the word 'leaks' in the story.
-Use the word 'dhtml' in the story.
-Use the word 'sell' in the story.
-Use the word 'inspirational' in the story.
-Use the word 'derive' in the story.
-Use the word 'dosage' in the story.
-Use the word 'changes' in the story.
-Use the word 'dennis' in the story.
-Use the word 'lil' in the story.
-Use the word 'boise' in the story.
-Use the word 'apprenticeship' in the story.
-Use the word 'burning' in the story.
-Use the word 'daylight' in the story.
-Use the word 'backbone' in the story.
-Use the word 'floating' in the story.
-Use the word 'lesser' in the story.
-Use the word 'blonde' in the story.
-Use the word 'sbc' in the story.
-Use the word 'flair' in the story.
-Use the word 'cardinals' in the story.
+Write a business report and save it to `/app/report.md`. 
+Make sure to write directly to this file after every attempt.
+
+Use the word 'commissioners' naturally and at least once in the report.
+Use the word 'recruitment' naturally and at least once in the report.
+Use the word 'audience' naturally and at least once in the report.
+Use the word 'employers' naturally and at least once in the report.
+Use the word 'charities' naturally and at least once in the report.
+Use the word 'pharmaceuticals' naturally and at least once in the report.
+Use the word 'notice' naturally and at least once in the report.
+Use the word 'outcomes' naturally and at least once in the report.
+Use the word 'sponsorship' naturally and at least once in the report.
+Use the word 'journalism' naturally and at least once in the report.
+Use the word 'description' naturally and at least once in the report.
+Use the word 'budget' naturally and at least once in the report.
+Use the word 'payroll' naturally and at least once in the report.
+Use the word 'agents' naturally and at least once in the report.
+Use the word 'leadership' naturally and at least once in the report.
+Use the word 'methodology' naturally and at least once in the report.
+Use the word 'restrictions' naturally and at least once in the report.
+Use the word 'accommodation' naturally and at least once in the report.
+Use the word 'termination' naturally and at least once in the report.
+Use the word 'networks' naturally and at least once in the report.
+Use the word 'entry' naturally and at least once in the report.
+Use the word 'uncertainties' naturally and at least once in the report.
+Use the word 'disruption' naturally and at least once in the report.
+Use the word 'report' naturally and at least once in the report.
+Use the word 'candidates' naturally and at least once in the report.
+Use the word 'goods' naturally and at least once in the report.
+Use the word 'airfare' naturally and at least once in the report.
+Use the word 'advisor' naturally and at least once in the report.
+Use the word 'affiliates' naturally and at least once in the report.
+Use the word 'spokesperson' naturally and at least once in the report.
+Use the word 'prosecution' naturally and at least once in the report.
+Use the word 'achievement' naturally and at least once in the report.
+Use the word 'journals' naturally and at least once in the report.
+Use the word 'tariffs' naturally and at least once in the report.
+Use the word 'devices' naturally and at least once in the report.
+Use the word 'measurement' naturally and at least once in the report.
+Use the word 'update' naturally and at least once in the report.
+Use the word 'aggregate' naturally and at least once in the report.
+Use the word 'productions' naturally and at least once in the report.
+Use the word 'disabilities' naturally and at least once in the report.
+Use the word 'monetary' naturally and at least once in the report.
+Use the word 'pharmacies' naturally and at least once in the report.
+Use the word 'purchasing' naturally and at least once in the report.
+Use the word 'dividends' naturally and at least once in the report.
+Use the word 'individual' naturally and at least once in the report.
+Use the word 'distributors' naturally and at least once in the report.
+Use the word 'supervisor' naturally and at least once in the report.
+Use the word 'dimensions' naturally and at least once in the report.
+Use the word 'official' naturally and at least once in the report.
+Use the word 'faculty' naturally and at least once in the report.
+Use the word 'advice' naturally and at least once in the report.
+Use the word 'manufacturers' naturally and at least once in the report.
+Use the word 'quantity' naturally and at least once in the report.
+Use the word 'simulations' naturally and at least once in the report.
+Use the word 'calendar' naturally and at least once in the report.
+Use the word 'courier' naturally and at least once in the report.
+Use the word 'search' naturally and at least once in the report.
+Use the word 'unions' naturally and at least once in the report.
+Use the word 'financial' naturally and at least once in the report.
+Use the word 'circulation' naturally and at least once in the report.
+Use the word 'wednesday' naturally and at least once in the report.
+Use the word 'identity' naturally and at least once in the report.
+Use the word 'transit' naturally and at least once in the report.
+Use the word 'platforms' naturally and at least once in the report.
+Use the word 'practitioner' naturally and at least once in the report.
+Use the word 'subscriber' naturally and at least once in the report.
+Use the word 'creditor' naturally and at least once in the report.
+Use the word 'foreclosures' naturally and at least once in the report.
+Use the word 'experience' naturally and at least once in the report.
+Use the word 'renewable' naturally and at least once in the report.
+Use the word 'planning' naturally and at least once in the report.
+Use the word 'postings' naturally and at least once in the report.
+Use the word 'ledger' naturally and at least once in the report.
+Use the word 'rentals' naturally and at least once in the report.
+Use the word 'alternatives' naturally and at least once in the report.
+Use the word 'panel' naturally and at least once in the report.
+Use the word 'economy' naturally and at least once in the report.
+Use the word 'wholesalers' naturally and at least once in the report.
+Use the word 'listings' naturally and at least once in the report.
+Use the word 'manpower' naturally and at least once in the report.
+Use the word 'strategies' naturally and at least once in the report.
+Use the word 'contracts' naturally and at least once in the report.
+Use the word 'international' naturally and at least once in the report.
+Use the word 'publications' naturally and at least once in the report.
+Use the word 'tracking' naturally and at least once in the report.
+Use the word 'suggestions' naturally and at least once in the report.
+Use the word 'visibility' naturally and at least once in the report.
+Use the word 'investor' naturally and at least once in the report.
+Use the word 'bonuses' naturally and at least once in the report.
+Use the word 'monitoring' naturally and at least once in the report.
+Use the word 'stores' naturally and at least once in the report.
+Use the word 'prediction' naturally and at least once in the report.
+Use the word 'catalyst' naturally and at least once in the report.
+Use the word 'consultant' naturally and at least once in the report.
+Use the word 'procedure' naturally and at least once in the report.
+Use the word 'inventories' naturally and at least once in the report.
+Use the word 'pensions' naturally and at least once in the report.
+Use the word 'values' naturally and at least once in the report.
+Use the word 'agreement' naturally and at least once in the report.
+Use the word 'organisational' naturally and at least once in the report.
+Use the word 'appeals' naturally and at least once in the report.
+Use the word 'franchise' naturally and at least once in the report.
+Use the word 'trade' naturally and at least once in the report.
+Use the word 'reviews' naturally and at least once in the report.
+Use the word 'reports' naturally and at least once in the report.
+Use the word 'registrations' naturally and at least once in the report.
+Use the word 'legal' naturally and at least once in the report.
+Use the word 'specialist' naturally and at least once in the report.
+Use the word 'context' naturally and at least once in the report.
+Use the word 'contacts' naturally and at least once in the report.
+Use the word 'population' naturally and at least once in the report.
+Use the word 'discussions' naturally and at least once in the report.
+Use the word 'additives' naturally and at least once in the report.
+Use the word 'decisions' naturally and at least once in the report.
+Use the word 'proposals' naturally and at least once in the report.
+Use the word 'publication' naturally and at least once in the report.
+Use the word 'diversity' naturally and at least once in the report.
+Use the word 'literacy' naturally and at least once in the report.
+Use the word 'pressure' naturally and at least once in the report.
+Use the word 'independence' naturally and at least once in the report.
+Use the word 'registration' naturally and at least once in the report.
+Use the word 'inquiries' naturally and at least once in the report.
+Use the word 'offices' naturally and at least once in the report.
+Use the word 'equities' naturally and at least once in the report.
+Use the word 'statutes' naturally and at least once in the report.
+Use the word 'resume' naturally and at least once in the report.
+Use the word 'users' naturally and at least once in the report.
+Use the word 'accountants' naturally and at least once in the report.
+Use the word 'justice' naturally and at least once in the report.
+Use the word 'warehouse' naturally and at least once in the report.
+Use the word 'presentations' naturally and at least once in the report.
+Use the word 'colleague' naturally and at least once in the report.
+Use the word 'privacy' naturally and at least once in the report.
+Use the word 'realtors' naturally and at least once in the report.
+Use the word 'demographic' naturally and at least once in the report.
+Use the word 'meeting' naturally and at least once in the report.
+Use the word 'assignment' naturally and at least once in the report.
+Use the word 'parameter' naturally and at least once in the report.
+Use the word 'interdisciplinary' naturally and at least once in the report.
+Use the word 'reduce' naturally and at least once in the report.
+Use the word 'qualification' naturally and at least once in the report.
+Use the word 'decline' naturally and at least once in the report.
+Use the word 'postage' naturally and at least once in the report.
+Use the word 'managing' naturally and at least once in the report.
+Use the word 'partnerships' naturally and at least once in the report.
+Use the word 'installations' naturally and at least once in the report.
+Use the word 'industrial' naturally and at least once in the report.
+Use the word 'accessibility' naturally and at least once in the report.
+Use the word 'properties' naturally and at least once in the report.
+Use the word 'proposed' naturally and at least once in the report.
+Use the word 'savings' naturally and at least once in the report.
+Use the word 'returns' naturally and at least once in the report.
+Use the word 'housing' naturally and at least once in the report.
+Use the word 'officer' naturally and at least once in the report.
+Use the word 'researchers' naturally and at least once in the report.
+Use the word 'agent' naturally and at least once in the report.
+Use the word 'distributions' naturally and at least once in the report.
+Use the word 'seminars' naturally and at least once in the report.
+Use the word 'conversions' naturally and at least once in the report.
+Use the word 'publishers' naturally and at least once in the report.
+Use the word 'releases' naturally and at least once in the report.
+Use the word 'corporate' naturally and at least once in the report.
+Use the word 'brochure' naturally and at least once in the report.
+Use the word 'publishing' naturally and at least once in the report.
+Use the word 'allocation' naturally and at least once in the report.
+Use the word 'subsidy' naturally and at least once in the report.
+Use the word 'autonomy' naturally and at least once in the report.
+Use the word 'billion' naturally and at least once in the report.
+Use the word 'advance' naturally and at least once in the report.
+Use the word 'obligations' naturally and at least once in the report.
+Use the word 'administration' naturally and at least once in the report.
+Use the word 'exhibitors' naturally and at least once in the report.
+Use the word 'electronics' naturally and at least once in the report.
+Use the word 'equipment' naturally and at least once in the report.
+Use the word 'center' naturally and at least once in the report.
+Use the word 'schedule' naturally and at least once in the report.
+Use the word 'council' naturally and at least once in the report.
+Use the word 'independent' naturally and at least once in the report.
+Use the word 'failure' naturally and at least once in the report.
+Use the word 'automobiles' naturally and at least once in the report.
+Use the word 'consumers' naturally and at least once in the report.
+Use the word 'connectivity' naturally and at least once in the report.
+Use the word 'contact' naturally and at least once in the report.
+Use the word 'statement' naturally and at least once in the report.
+Use the word 'estimates' naturally and at least once in the report.
+Use the word 'specialization' naturally and at least once in the report.
+Use the word 'transition' naturally and at least once in the report.
+Use the word 'files' naturally and at least once in the report.
+Use the word 'occupations' naturally and at least once in the report.
+Use the word 'tourism' naturally and at least once in the report.
+Use the word 'growth' naturally and at least once in the report.
+Use the word 'pharmacists' naturally and at least once in the report.
+Use the word 'outlook' naturally and at least once in the report.
+Use the word 'chairperson' naturally and at least once in the report.
+Use the word 'advisory' naturally and at least once in the report.
+Use the word 'functionality' naturally and at least once in the report.
+Use the word 'lawmakers' naturally and at least once in the report.
+Use the word 'indemnity' naturally and at least once in the report.
+Use the word 'materials' naturally and at least once in the report.
+Use the word 'credentials' naturally and at least once in the report.
+Use the word 'engagement' naturally and at least once in the report.
+Use the word 'catering' naturally and at least once in the report.
+Use the word 'employee' naturally and at least once in the report.
+Use the word 'utility' naturally and at least once in the report.
+Use the word 'premises' naturally and at least once in the report.
+Use the word 'derivatives' naturally and at least once in the report.
+Use the word 'response' naturally and at least once in the report.
+Use the word 'message' naturally and at least once in the report.
+Use the word 'advertisers' naturally and at least once in the report.
+Use the word 'discounts' naturally and at least once in the report.
+Use the word 'advantage' naturally and at least once in the report.
+Use the word 'lenders' naturally and at least once in the report.
+Use the word 'complaint' naturally and at least once in the report.
+Use the word 'amendments' naturally and at least once in the report.
+Use the word 'trustee' naturally and at least once in the report.
+Use the word 'consideration' naturally and at least once in the report.
+Use the word 'traders' naturally and at least once in the report.
+Use the word 'power' naturally and at least once in the report.
+Use the word 'supplements' naturally and at least once in the report.
+Use the word 'meetings' naturally and at least once in the report.
+Use the word 'protocols' naturally and at least once in the report.
+Use the word 'directories' naturally and at least once in the report.
+Use the word 'sector' naturally and at least once in the report.
+Use the word 'tenders' naturally and at least once in the report.
+Use the word 'principal' naturally and at least once in the report.
+Use the word 'notifications' naturally and at least once in the report.
+Use the word 'disclaimers' naturally and at least once in the report.
+Use the word 'processing' naturally and at least once in the report.
+Use the word 'specification' naturally and at least once in the report.
+Use the word 'legislative' naturally and at least once in the report.
+Use the word 'summaries' naturally and at least once in the report.
+Use the word 'refunds' naturally and at least once in the report.
+Use the word 'group' naturally and at least once in the report.
+Use the word 'statutory' naturally and at least once in the report.
+Use the word 'secure' naturally and at least once in the report.
+Use the word 'associates' naturally and at least once in the report.
+Use the word 'violations' naturally and at least once in the report.
+Use the word 'firms' naturally and at least once in the report.
+Use the word 'client' naturally and at least once in the report.
+Use the word 'designs' naturally and at least once in the report.
+Use the word 'appraisals' naturally and at least once in the report.
+Use the word 'foundation' naturally and at least once in the report.
+Use the word 'barrier' naturally and at least once in the report.
+Use the word 'freight' naturally and at least once in the report.
+Use the word 'findings' naturally and at least once in the report.
+Use the word 'connection' naturally and at least once in the report.
+Use the word 'recession' naturally and at least once in the report.
+Use the word 'emerging' naturally and at least once in the report.
+Use the word 'collections' naturally and at least once in the report.
+Use the word 'accurate' naturally and at least once in the report.
+Use the word 'realtor' naturally and at least once in the report.
+Use the word 'analyses' naturally and at least once in the report.
+Use the word 'replacement' naturally and at least once in the report.
+Use the word 'difficulties' naturally and at least once in the report.
+Use the word 'ombudsman' naturally and at least once in the report.
+Use the word 'contract' naturally and at least once in the report.

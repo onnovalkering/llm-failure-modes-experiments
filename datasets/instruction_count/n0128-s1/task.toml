@@ -1,11 +1,11 @@
 version = "1.0"
-artifacts = ["/app/story.md"]
+artifacts = ["/app/report.md"]
 
 [verifier]
 timeout_sec = 300.0
 
 [agent]
-timeout_sec = 428
+timeout_sec = 300
 
 [environment]
 build_timeout_sec = 600.0
