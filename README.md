@@ -11,14 +11,15 @@ python ./experiments/instruction_count/generate.py \
   --seeds 0 1 2
 ```
 
+### Experiment validation
+...
+
 ```
 PYTHONPATH=. harbor run \
   --agent opencode \
   --model openrouter/anthropic/claude-haiku-5.5 \
-  --model openrouter/anthropic/claude-sonnet-5.5 \
-  --model openrouter/anthropic/claude-opus-5.5 \
   --path datasets/instruction_count \
-  --n-concurrent 7  \
+  --n-concurrent 4  \
   --plugin plugins.reward_matrix:RewardMatrixPlugin \
   --ak 'opencode_config={"snapshot": false}'
 ```
@@ -32,14 +33,32 @@ python ./experiments/maze_navigation/generate.py \
   --seeds 0 1 2
 ```
 
+### Experiment validation
+...
+
 ```
 PYTHONPATH=. harbor run \
   --agent opencode \
   --model openrouter/anthropic/claude-haiku-5.5 \
-  --model openrouter/anthropic/claude-sonnet-5.5 \
-  --model openrouter/anthropic/claude-opus-5.5 \
   --path datasets/maze_navigation \
-  --n-concurrent 7  \
+  --n-concurrent 4 \
+  --plugin plugins.reward_matrix:RewardMatrixPlugin \
+  --plugin plugins.maze_plot:MazePlotPlugin \
+  --ak 'opencode_config={"snapshot": false}'
+```
+
+### Experiment 
+...
+
+```
+PYTHONPATH=. harbor run \
+  --agent opencode \
+  --model openrouter/google/gemma-4-26b-a4b-it \
+  --model openrouter/openai/gpt-oss-20b \
+  --model openrouter/qwen/qwen3.5-35b-a3b \
+  --model openrouter/mistralai/ministral-8b-2512 \
+  --path datasets/maze_navigation \
+  --n-concurrent 4 \
   --plugin plugins.reward_matrix:RewardMatrixPlugin \
   --plugin plugins.maze_plot:MazePlotPlugin \
   --ak 'opencode_config={"snapshot": false}'

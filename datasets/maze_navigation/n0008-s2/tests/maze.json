@@ -1,0 +1,19 @@
+{
+  "steps": 8,
+  "seed": 2,
+  "size": 3,
+  "start": [
+    2,
+    0
+  ],
+  "goal": [
+    1,
+    1
+  ],
+  "token": "a0eabbc8089612e7dc1be225929b8fce",
+  "cells": [
+    "6ac",
+    "385",
+    "2a9"
+  ]
+}

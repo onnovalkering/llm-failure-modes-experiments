@@ -1,0 +1,23 @@
+{
+  "steps": 16,
+  "seed": 1,
+  "size": 7,
+  "start": [
+    4,
+    6
+  ],
+  "goal": [
+    3,
+    3
+  ],
+  "token": "b0f1439a95a7ca956aaf3e3e0ae6423d",
+  "cells": [
+    "6c6aaac",
+    "5552c6d",
+    "53bad51",
+    "16ac53c",
+    "6929169",
+    "3aaac3c",
+    "2aaaba9"
+  ]
+}
