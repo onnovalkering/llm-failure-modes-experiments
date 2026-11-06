@@ -6,11 +6,16 @@ readme = "README.md"
 requires-python = ">=3.14"
 
 dependencies = [
-  "harbor ~= 0.25.0"
+  "fastmcp ~= 4.1.0",
+  "harbor ~= 0.25.0",
+  "maze-dataset ~= 1.4.0",
 ]
 
 [tool.uv]
 package = false
+constraint-dependencies = [
+    "muutils < 0.9"
+]
 
 [build-system]
 requires = ["uv_build ~= 0.13.0"]
